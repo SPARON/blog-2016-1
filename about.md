@@ -3,6 +3,7 @@ layout: page
 title: "About"
 description: "学苟知本，六经皆我注脚 "
 header-img: "img/green.jpg"
+header-color: "#47a5ed"
 ---
 
 
@@ -23,7 +24,7 @@ header-img: "img/green.jpg"
 - [Caos](http://caos.me)
 - [BuzhiNote](http://BuzhiNote.com)
 - [Azeril](http://azeril.me)
-- [CNFeat](www.cnfeat.com)
+- [CNFeat](http://www.cnfeat.com)
 
 ### 联系
 

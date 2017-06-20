@@ -2,7 +2,8 @@
 layout: page
 title: "Tags"
 description: "哈哈，你找到了我的文章基因库"  
-header-img: "img/semantic.jpg"  
+header-img: "img/semantic.jpg"
+header-color: "#11b5ae"
 ---
 
 ## 本页使用方法
