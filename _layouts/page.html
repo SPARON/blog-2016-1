@@ -3,6 +3,12 @@ layout: default
 ---
 
 <!-- Page Header -->
+<style type="text/css">
+    header.intro-header{
+        background-color: '{% if page.header-color %}{{ page.header-color }}{% else %}{{ site.header-color }}{% endif %}';
+        /*background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')*/
+    }
+</style>
 <header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
     <div class="container">
         <div class="row">
