@@ -17,7 +17,7 @@ header-img: "img/green.jpg"
 - GOLANG
 
 
-###我的朋友们
+### 我的朋友们
 
 - [YiLee](http://yilee.me)
 - [Caos](http://caos.me)
@@ -25,7 +25,7 @@ header-img: "img/green.jpg"
 - [Azeril](http://azeril.me)
 - [CNFeat](www.cnfeat.com)
 
-###联系
+### 联系
 
 - 公众号：sparon
 
